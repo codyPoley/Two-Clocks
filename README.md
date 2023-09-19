@@ -1,7 +1,6 @@
 # Two-Clocks
-Cody Poley
-/n CS 210 – Programming Languages – May 2021
-
+Cody Poley <br>
+CS 210 – Programming Languages – May 2021 <br>
 C Plus Plus
 
 ##  Description 
